@@ -1,0 +1,14 @@
+# Spec 4.2 -- dark mode is the default and only theme.
+[theme]
+base                = "dark"
+primaryColor        = "#26a69a"
+backgroundColor     = "#0e1117"
+secondaryBackgroundColor = "#1f2937"
+textColor           = "#e5e7eb"
+font                = "sans serif"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false

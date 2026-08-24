@@ -1,0 +1,6 @@
+# Local desktop credentials (spec 6.1). Copy to Key.txt -- which is gitignored.
+# Prefer .streamlit/secrets.toml or environment variables where you can.
+UPSTOX_API_KEY=your_api_key_here
+UPSTOX_API_SECRET=your_api_secret_here
+UPSTOX_ACCESS_TOKEN=paste_daily_token_here
+UPSTOX_REDIRECT_URI=http://localhost:8501

@@ -1,0 +1,34 @@
+# --- Secrets: NEVER commit (spec ss6.1) ---
+Key.txt
+.env
+.streamlit/secrets.toml
+*.pem
+*.key
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+htmlcov/
+.coverage
+
+# --- Data: bulk stores are regenerated, not tracked ---
+data/ohlc/
+data/instruments/
+data/cache/
+*.parquet
+
+# NOTE: data/snapshots/ IS tracked on purpose -- the EOD GitHub Action
+# commits scan results so the hosted app can read them with zero API calls.
+# Bulk OHLC (above) stays out of git; it is rebuilt by the workflow.
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

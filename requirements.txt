@@ -1,0 +1,15 @@
+# Project Infinity -- runtime dependencies
+# Ranges here; run `py -m pip freeze > requirements.lock.txt` after first
+# install and deploy from the lock file for reproducible Streamlit Cloud builds.
+
+streamlit>=1.40,<2.0
+pandas>=2.2,<3.0
+numpy>=1.26,<3.0
+scipy>=1.13,<2.0
+plotly>=5.22,<7.0
+requests>=2.32,<3.0
+yfinance>=0.2.40
+pyarrow>=16.0          # parquet bulk OHLC store
+tzdata>=2024.1         # zoneinfo database on Windows
+tqdm>=4.66
+openpyxl>=3.1          # xlsx export

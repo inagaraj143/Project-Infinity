@@ -1,0 +1,42 @@
+{
+  "_README": [
+    "NSE Equity (Capital Market) segment trading holidays.",
+    "",
+    "*** verified MUST be set to true only after you paste the dates from the",
+    "*** official NSE circular: https://www.nseindia.com/resources/exchange-communication-holidays",
+    "*** While verified=false, infinity.market_clock logs a WARNING at import and",
+    "*** app.py shows a banner, because a wrong holiday silently corrupts the",
+    "*** snapshot-freshness logic (a 'holiday' that is really a trading day makes",
+    "*** the app serve stale JSON for a full session).",
+    "",
+    "confidence: 'fixed'     = fixed Gregorian date, safe.",
+    "confidence: 'estimated' = lunar/religious date derived from almanac, MUST be",
+    "                          confirmed against the NSE circular before trusting.",
+    "",
+    "Muhurat (Diwali evening) special sessions are NOT modelled -- see",
+    "market_clock.KNOWN_LIMITATIONS."
+  ],
+  "verified": false,
+  "source": "best-effort scaffold, unconfirmed",
+  "last_updated": "2026-08-23",
+  "years": {
+    "2026": [
+      { "date": "2026-01-26", "name": "Republic Day",            "confidence": "fixed" },
+      { "date": "2026-03-04", "name": "Holi (Dhulandi)",         "confidence": "estimated" },
+      { "date": "2026-03-20", "name": "Id-ul-Fitr (Ramzan Id)",  "confidence": "estimated" },
+      { "date": "2026-03-26", "name": "Ram Navami",              "confidence": "estimated" },
+      { "date": "2026-03-31", "name": "Mahavir Jayanti",         "confidence": "estimated" },
+      { "date": "2026-04-03", "name": "Good Friday",             "confidence": "fixed" },
+      { "date": "2026-04-14", "name": "Dr. Ambedkar Jayanti",    "confidence": "fixed" },
+      { "date": "2026-05-01", "name": "Maharashtra Day",         "confidence": "fixed" },
+      { "date": "2026-05-27", "name": "Bakri Id",                "confidence": "estimated" },
+      { "date": "2026-06-25", "name": "Muharram",                "confidence": "estimated" },
+      { "date": "2026-09-14", "name": "Ganesh Chaturthi",        "confidence": "estimated" },
+      { "date": "2026-10-02", "name": "Mahatma Gandhi Jayanti",  "confidence": "fixed" },
+      { "date": "2026-10-20", "name": "Dussehra",                "confidence": "estimated" },
+      { "date": "2026-11-09", "name": "Diwali Balipratipada",    "confidence": "estimated" },
+      { "date": "2026-11-24", "name": "Guru Nanak Jayanti",      "confidence": "estimated" },
+      { "date": "2026-12-25", "name": "Christmas",               "confidence": "fixed" }
+    ]
+  }
+}
