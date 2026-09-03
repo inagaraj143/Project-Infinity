@@ -3,9 +3,11 @@
  "index": "Nifty 500",
  "verified": true,
  "source": "https://archives.nseindia.com/content/indices/ind_nifty500list.csv",
- "built_at": "2026-09-02T20:00:30.974404+05:30",
+ "built_at": "2026-09-03T20:05:35.619682+05:30",
  "count": 500,
- "unresolved": [],
+ "unresolved": [
+  "HFCL"
+ ],
  "members": [
   {
    "symbol": "360ONE",
@@ -1440,7 +1442,7 @@
    "name": "HFCL Ltd.",
    "industry": "Telecommunication",
    "isin": "INE548A01028",
-   "instrument_key": "NSE_EQ|INE548A01028"
+   "instrument_key": ""
   },
   {
    "symbol": "HINDALCO",
