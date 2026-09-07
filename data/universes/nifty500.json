@@ -3,9 +3,11 @@
  "index": "Nifty 500",
  "verified": true,
  "source": "https://archives.nseindia.com/content/indices/ind_nifty500list.csv",
- "built_at": "2026-09-04T19:52:40.780411+05:30",
- "count": 500,
+ "built_at": "2026-09-07T21:22:18.884602+05:30",
+ "count": 501,
  "unresolved": [
+  "DUMMYHEG",
+  "HEG",
   "HFCL"
  ],
  "members": [
@@ -1018,6 +1020,13 @@
    "instrument_key": "NSE_EQ|INE089A01031"
   },
   {
+   "symbol": "DUMMYHEG",
+   "name": "Dummy HEG Ltd.",
+   "industry": "Metals & Mining",
+   "isin": "DUM545A01024",
+   "instrument_key": ""
+  },
+  {
    "symbol": "ECLERX",
    "name": "eClerx Services Ltd.",
    "industry": "Services",
@@ -1418,10 +1427,10 @@
   },
   {
    "symbol": "HEG",
-   "name": "H.E.G. Ltd.",
+   "name": "HEG Ltd.",
    "industry": "Capital Goods",
    "isin": "INE545A01024",
-   "instrument_key": "NSE_EQ|INE545A01024"
+   "instrument_key": ""
   },
   {
    "symbol": "HEROMOTOCO",
@@ -3655,6 +3664,7 @@
   "DMART",
   "DOMS",
   "DRREDDY",
+  "DUMMYHEG",
   "ECLERX",
   "EICHERMOT",
   "EIDPARRY",
