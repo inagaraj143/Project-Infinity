@@ -3,11 +3,10 @@
  "index": "Nifty 500",
  "verified": true,
  "source": "https://archives.nseindia.com/content/indices/ind_nifty500list.csv",
- "built_at": "2026-09-21T21:59:01.551979+05:30",
+ "built_at": "2026-09-22T20:24:53.346566+05:30",
  "count": 501,
  "unresolved": [
   "DUMMYHEG",
-  "HEG",
   "HFCL"
  ],
  "members": [
@@ -1426,11 +1425,11 @@
    "instrument_key": "NSE_EQ|INE795G01014"
   },
   {
-   "symbol": "HEG",
-   "name": "HEG Ltd.",
+   "symbol": "HEGAM",
+   "name": "HEG Advanced Materials Ltd.",
    "industry": "Capital Goods",
    "isin": "INE545A01024",
-   "instrument_key": ""
+   "instrument_key": "NSE_EQ|INE545A01024"
   },
   {
    "symbol": "HEROMOTOCO",
@@ -3722,7 +3721,7 @@
   "HDFCAMC",
   "HDFCBANK",
   "HDFCLIFE",
-  "HEG",
+  "HEGAM",
   "HEROMOTOCO",
   "HEXT",
   "HFCL",
