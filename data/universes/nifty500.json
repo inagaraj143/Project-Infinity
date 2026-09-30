@@ -3,11 +3,16 @@
  "index": "Nifty 500",
  "verified": true,
  "source": "https://archives.nseindia.com/content/indices/ind_nifty500list.csv",
- "built_at": "2026-09-29T22:01:23.661340+05:30",
+ "built_at": "2026-09-30T21:55:05.618367+05:30",
  "count": 501,
  "unresolved": [
+  "BAGMANE",
+  "BIRET",
   "DUMMYHEG",
-  "HFCL"
+  "EMBASSY",
+  "HFCL",
+  "MTARTECH",
+  "STLTECH"
  ],
  "members": [
   {
@@ -16,13 +21,6 @@
    "industry": "Financial Services",
    "isin": "INE466L01038",
    "instrument_key": "NSE_EQ|INE466L01038"
-  },
-  {
-   "symbol": "3MINDIA",
-   "name": "3M India Ltd.",
-   "industry": "Diversified",
-   "isin": "INE470A01017",
-   "instrument_key": "NSE_EQ|INE470A01017"
   },
   {
    "symbol": "AADHARHFC",
@@ -72,20 +70,6 @@
    "industry": "Fast Moving Consumer Goods",
    "isin": "INE552Z01027",
    "instrument_key": "NSE_EQ|INE552Z01027"
-  },
-  {
-   "symbol": "ABFRL",
-   "name": "Aditya Birla Fashion and Retail Ltd.",
-   "industry": "Consumer Services",
-   "isin": "INE647O01011",
-   "instrument_key": "NSE_EQ|INE647O01011"
-  },
-  {
-   "symbol": "ABLBL",
-   "name": "Aditya Birla Lifestyle Brands Ltd.",
-   "industry": "Consumer Services",
-   "isin": "INE14LE01019",
-   "instrument_key": "NSE_EQ|INE14LE01019"
   },
   {
    "symbol": "ABREL",
@@ -177,6 +161,13 @@
    "industry": "Oil Gas & Consumable Fuels",
    "isin": "INE0INX01018",
    "instrument_key": "NSE_EQ|INE0INX01018"
+  },
+  {
+   "symbol": "AETHER",
+   "name": "Aether Industries Ltd.",
+   "industry": "Chemicals",
+   "isin": "INE0BWX01014",
+   "instrument_key": "NSE_EQ|INE0BWX01014"
   },
   {
    "symbol": "AFCONS",
@@ -382,6 +373,13 @@
    "instrument_key": "NSE_EQ|INE406A01037"
   },
   {
+   "symbol": "AVANTIFEED",
+   "name": "Avanti Feeds Ltd.",
+   "industry": "Fast Moving Consumer Goods",
+   "isin": "INE871C01038",
+   "instrument_key": "NSE_EQ|INE871C01038"
+  },
+  {
    "symbol": "AWL",
    "name": "AWL Agri Business Ltd.",
    "industry": "Fast Moving Consumer Goods",
@@ -394,6 +392,20 @@
    "industry": "Financial Services",
    "isin": "INE238A01034",
    "instrument_key": "NSE_EQ|INE238A01034"
+  },
+  {
+   "symbol": "AZAD",
+   "name": "Azad Engineering Ltd.",
+   "industry": "Capital Goods",
+   "isin": "INE02IJ01035",
+   "instrument_key": "NSE_EQ|INE02IJ01035"
+  },
+  {
+   "symbol": "BAGMANE",
+   "name": "Bagmane Prime Office REIT",
+   "industry": "Realty",
+   "isin": "INE2OVN25015",
+   "instrument_key": ""
   },
   {
    "symbol": "BAJAJ-AUTO",
@@ -473,18 +485,11 @@
    "instrument_key": "NSE_EQ|INE176A01028"
   },
   {
-   "symbol": "BAYERCROP",
-   "name": "Bayer Cropscience Ltd.",
-   "industry": "Chemicals",
-   "isin": "INE462A01022",
-   "instrument_key": "NSE_EQ|INE462A01022"
-  },
-  {
-   "symbol": "BBTC",
-   "name": "Bombay Burmah Trading Corporation Ltd.",
-   "industry": "Fast Moving Consumer Goods",
-   "isin": "INE050A01025",
-   "instrument_key": "NSE_EQ|INE050A01025"
+   "symbol": "BBOX",
+   "name": "Black Box Ltd.",
+   "industry": "Information Technology",
+   "isin": "INE676A01027",
+   "instrument_key": "NSE_EQ|INE676A01027"
   },
   {
    "symbol": "BDL",
@@ -522,6 +527,13 @@
    "instrument_key": "NSE_EQ|INE463A01038"
   },
   {
+   "symbol": "BHARATCOAL",
+   "name": "Bharat Coking Coal Ltd.",
+   "industry": "Oil Gas & Consumable Fuels",
+   "isin": "INE05XR01022",
+   "instrument_key": "NSE_EQ|INE05XR01022"
+  },
+  {
    "symbol": "BHARATFORG",
    "name": "Bharat Forge Ltd.",
    "industry": "Automobile and Auto Components",
@@ -550,13 +562,6 @@
    "instrument_key": "NSE_EQ|INE257A01026"
   },
   {
-   "symbol": "BIKAJI",
-   "name": "Bikaji Foods International Ltd.",
-   "industry": "Fast Moving Consumer Goods",
-   "isin": "INE00E101023",
-   "instrument_key": "NSE_EQ|INE00E101023"
-  },
-  {
    "symbol": "BIOCON",
    "name": "Biocon Ltd.",
    "industry": "Healthcare",
@@ -564,25 +569,18 @@
    "instrument_key": "NSE_EQ|INE376G01013"
   },
   {
+   "symbol": "BIRET",
+   "name": "Brookfield India Real Estate Trust",
+   "industry": "Realty",
+   "isin": "INE0FDU25010",
+   "instrument_key": ""
+  },
+  {
    "symbol": "BLS",
    "name": "BLS International Services Ltd.",
    "industry": "Consumer Services",
    "isin": "INE153T01027",
    "instrument_key": "NSE_EQ|INE153T01027"
-  },
-  {
-   "symbol": "BLUEDART",
-   "name": "Blue Dart Express Ltd.",
-   "industry": "Services",
-   "isin": "INE233B01017",
-   "instrument_key": "NSE_EQ|INE233B01017"
-  },
-  {
-   "symbol": "BLUEJET",
-   "name": "Blue Jet Healthcare Ltd.",
-   "industry": "Healthcare",
-   "isin": "INE0KBH01020",
-   "instrument_key": "NSE_EQ|INE0KBH01020"
   },
   {
    "symbol": "BLUESTARCO",
@@ -746,13 +744,6 @@
    "instrument_key": "NSE_EQ|INE067A01029"
   },
   {
-   "symbol": "CHALET",
-   "name": "Chalet Hotels Ltd.",
-   "industry": "Consumer Services",
-   "isin": "INE427F01016",
-   "instrument_key": "NSE_EQ|INE427F01016"
-  },
-  {
    "symbol": "CHAMBLFERT",
    "name": "Chambal Fertilizers & Chemicals Ltd.",
    "industry": "Chemicals",
@@ -807,6 +798,20 @@
    "industry": "Chemicals",
    "isin": "INE227W01023",
    "instrument_key": "NSE_EQ|INE227W01023"
+  },
+  {
+   "symbol": "CLEANMAX",
+   "name": "Clean Max Enviro Energy Solutions Ltd.",
+   "industry": "Power",
+   "isin": "INE647U01026",
+   "instrument_key": "NSE_EQ|INE647U01026"
+  },
+  {
+   "symbol": "CMPDI",
+   "name": "Central Mine Planning & Design Institute Ltd.",
+   "industry": "Services",
+   "isin": "INE05HV01027",
+   "instrument_key": "NSE_EQ|INE05HV01027"
   },
   {
    "symbol": "COALINDIA",
@@ -914,6 +919,13 @@
    "instrument_key": "NSE_EQ|INE298A01020"
   },
   {
+   "symbol": "CUPID",
+   "name": "Cupid Ltd.",
+   "industry": "Fast Moving Consumer Goods",
+   "isin": "INE509F01029",
+   "instrument_key": "NSE_EQ|INE509F01029"
+  },
+  {
    "symbol": "CYIENT",
    "name": "Cyient Ltd.",
    "industry": "Information Technology",
@@ -940,13 +952,6 @@
    "industry": "Capital Goods",
    "isin": "INE0IX101010",
    "instrument_key": "NSE_EQ|INE0IX101010"
-  },
-  {
-   "symbol": "DCMSHRIRAM",
-   "name": "DCM Shriram Ltd.",
-   "industry": "Diversified",
-   "isin": "INE499A01024",
-   "instrument_key": "NSE_EQ|INE499A01024"
   },
   {
    "symbol": "DEEPAKFERT",
@@ -1075,6 +1080,13 @@
    "instrument_key": "NSE_EQ|INE548C01032"
   },
   {
+   "symbol": "EMBASSY",
+   "name": "EMBASSY OFFICE PARKS REIT",
+   "industry": "Realty",
+   "isin": "INE041025011",
+   "instrument_key": ""
+  },
+  {
    "symbol": "EMCURE",
    "name": "Emcure Pharmaceuticals Ltd.",
    "industry": "Healthcare",
@@ -1108,13 +1120,6 @@
    "industry": "Capital Goods",
    "isin": "INE1NPP01017",
    "instrument_key": "NSE_EQ|INE1NPP01017"
-  },
-  {
-   "symbol": "ERIS",
-   "name": "Eris Lifesciences Ltd.",
-   "industry": "Healthcare",
-   "isin": "INE406M01024",
-   "instrument_key": "NSE_EQ|INE406M01024"
   },
   {
    "symbol": "ESCORTS",
@@ -1192,6 +1197,13 @@
    "industry": "Healthcare",
    "isin": "INE061F01013",
    "instrument_key": "NSE_EQ|INE061F01013"
+  },
+  {
+   "symbol": "FRACTAL",
+   "name": "Fractal Analytics Ltd.",
+   "industry": "Information Technology",
+   "isin": "INE212S01015",
+   "instrument_key": "NSE_EQ|INE212S01015"
   },
   {
    "symbol": "FSL",
@@ -1283,13 +1295,6 @@
    "industry": "Fast Moving Consumer Goods",
    "isin": "INE260B01028",
    "instrument_key": "NSE_EQ|INE260B01028"
-  },
-  {
-   "symbol": "GODIGIT",
-   "name": "Go Digit General Insurance Ltd.",
-   "industry": "Financial Services",
-   "isin": "INE03JT01014",
-   "instrument_key": "NSE_EQ|INE03JT01014"
   },
   {
    "symbol": "GODREJCP",
@@ -1621,13 +1626,6 @@
    "instrument_key": "NSE_EQ|INE115Q01022"
   },
   {
-   "symbol": "INDGN",
-   "name": "Indegene Ltd.",
-   "industry": "Healthcare",
-   "isin": "INE065X01017",
-   "instrument_key": "NSE_EQ|INE065X01017"
-  },
-  {
    "symbol": "INDHOTEL",
    "name": "Indian Hotels Co. Ltd.",
    "industry": "Consumer Services",
@@ -1682,6 +1680,13 @@
    "industry": "Information Technology",
    "isin": "INE009A01021",
    "instrument_key": "NSE_EQ|INE009A01021"
+  },
+  {
+   "symbol": "INOXINDIA",
+   "name": "INOX India Ltd.",
+   "industry": "Capital Goods",
+   "isin": "INE616N01034",
+   "instrument_key": "NSE_EQ|INE616N01034"
   },
   {
    "symbol": "INOXWIND",
@@ -1859,13 +1864,6 @@
    "instrument_key": "NSE_EQ|INE718I01012"
   },
   {
-   "symbol": "JSWDULUX",
-   "name": "JSW Dulux Ltd.",
-   "industry": "Consumer Durables",
-   "isin": "INE133A01011",
-   "instrument_key": "NSE_EQ|INE133A01011"
-  },
-  {
    "symbol": "JSWENERGY",
    "name": "JSW Energy Ltd.",
    "industry": "Power",
@@ -1899,13 +1897,6 @@
    "industry": "Chemicals",
    "isin": "INE0BY001018",
    "instrument_key": "NSE_EQ|INE0BY001018"
-  },
-  {
-   "symbol": "JUBLPHARMA",
-   "name": "Jubilant Pharmova Ltd.",
-   "industry": "Healthcare",
-   "isin": "INE700A01033",
-   "instrument_key": "NSE_EQ|INE700A01033"
   },
   {
    "symbol": "JWL",
@@ -1978,6 +1969,13 @@
    "instrument_key": "NSE_EQ|INE967H01025"
   },
   {
+   "symbol": "KIRLOSBROS",
+   "name": "Kirloskar Brothers Ltd.",
+   "industry": "Capital Goods",
+   "isin": "INE732A01036",
+   "instrument_key": "NSE_EQ|INE732A01036"
+  },
+  {
    "symbol": "KIRLOSENG",
    "name": "Kirloskar Oil Eng Ltd.",
    "industry": "Capital Goods",
@@ -2013,18 +2011,18 @@
    "instrument_key": "NSE_EQ|INE930H01031"
   },
   {
+   "symbol": "KSB",
+   "name": "KSB Ltd.",
+   "industry": "Capital Goods",
+   "isin": "INE999A01023",
+   "instrument_key": "NSE_EQ|INE999A01023"
+  },
+  {
    "symbol": "LALPATHLAB",
    "name": "Dr. Lal Path Labs Ltd.",
    "industry": "Healthcare",
    "isin": "INE600L01024",
    "instrument_key": "NSE_EQ|INE600L01024"
-  },
-  {
-   "symbol": "LATENTVIEW",
-   "name": "Latent View Analytics Ltd.",
-   "industry": "Information Technology",
-   "isin": "INE0I7C01011",
-   "instrument_key": "NSE_EQ|INE0I7C01011"
   },
   {
    "symbol": "LAURUSLABS",
@@ -2167,13 +2165,6 @@
    "instrument_key": "NSE_EQ|INE634S01028"
   },
   {
-   "symbol": "MAPMYINDIA",
-   "name": "C.E. Info Systems Ltd.",
-   "industry": "Information Technology",
-   "isin": "INE0BV301023",
-   "instrument_key": "NSE_EQ|INE0BV301023"
-  },
-  {
    "symbol": "MARICO",
    "name": "Marico Ltd.",
    "industry": "Fast Moving Consumer Goods",
@@ -2293,6 +2284,13 @@
    "instrument_key": "NSE_EQ|INE0FS801015"
   },
   {
+   "symbol": "MTARTECH",
+   "name": "MTAR Technologies Ltd.",
+   "industry": "Capital Goods",
+   "isin": "INE864I01014",
+   "instrument_key": ""
+  },
+  {
    "symbol": "MUTHOOTFIN",
    "name": "Muthoot Finance Ltd.",
    "industry": "Financial Services",
@@ -2377,13 +2375,6 @@
    "instrument_key": "NSE_EQ|INE794A01010"
   },
   {
-   "symbol": "NEWGEN",
-   "name": "Newgen Software Technologies Ltd.",
-   "industry": "Information Technology",
-   "isin": "INE619B01017",
-   "instrument_key": "NSE_EQ|INE619B01017"
-  },
-  {
    "symbol": "NH",
    "name": "Narayana Hrudayalaya Ltd.",
    "industry": "Healthcare",
@@ -2403,13 +2394,6 @@
    "industry": "Financial Services",
    "isin": "INE470Y01017",
    "instrument_key": "NSE_EQ|INE470Y01017"
-  },
-  {
-   "symbol": "NIVABUPA",
-   "name": "Niva Bupa Health Insurance Company Ltd.",
-   "industry": "Financial Services",
-   "isin": "INE995S01015",
-   "instrument_key": "NSE_EQ|INE995S01015"
   },
   {
    "symbol": "NLCINDIA",
@@ -2573,13 +2557,6 @@
    "instrument_key": "NSE_EQ|INE134E01011"
   },
   {
-   "symbol": "PFIZER",
-   "name": "Pfizer Ltd.",
-   "industry": "Healthcare",
-   "isin": "INE182A01018",
-   "instrument_key": "NSE_EQ|INE182A01018"
-  },
-  {
    "symbol": "PFOCUS",
    "name": "Prime Focus Ltd.",
    "industry": "Media Entertainment & Publication",
@@ -2706,6 +2683,13 @@
    "instrument_key": "NSE_EQ|INE811K01011"
   },
   {
+   "symbol": "PRIVISCL",
+   "name": "Privi Speciality Chemicals Ltd.",
+   "industry": "Chemicals",
+   "isin": "INE959A01019",
+   "instrument_key": "NSE_EQ|INE959A01019"
+  },
+  {
    "symbol": "PTCIL",
    "name": "PTC Industries Ltd.",
    "industry": "Capital Goods",
@@ -2818,6 +2802,13 @@
    "instrument_key": "NSE_EQ|INE777K01022"
   },
   {
+   "symbol": "RUBICON",
+   "name": "Rubicon Research Ltd.",
+   "industry": "Healthcare",
+   "isin": "INE506V01022",
+   "instrument_key": "NSE_EQ|INE506V01022"
+  },
+  {
    "symbol": "RVNL",
    "name": "Rail Vikas Nigam Ltd.",
    "industry": "Construction",
@@ -2853,11 +2844,11 @@
    "instrument_key": "NSE_EQ|INE148I01020"
   },
   {
-   "symbol": "SAPPHIRE",
-   "name": "Sapphire Foods India Ltd.",
-   "industry": "Consumer Services",
-   "isin": "INE806T01020",
-   "instrument_key": "NSE_EQ|INE806T01020"
+   "symbol": "SANSERA",
+   "name": "Sansera Engineering Ltd.",
+   "industry": "Automobile and Auto Components",
+   "isin": "INE953O01021",
+   "instrument_key": "NSE_EQ|INE953O01021"
   },
   {
    "symbol": "SARDAEN",
@@ -2865,20 +2856,6 @@
    "industry": "Metals & Mining",
    "isin": "INE385C01021",
    "instrument_key": "NSE_EQ|INE385C01021"
-  },
-  {
-   "symbol": "SAREGAMA",
-   "name": "Saregama India Ltd",
-   "industry": "Media Entertainment & Publication",
-   "isin": "INE979A01025",
-   "instrument_key": "NSE_EQ|INE979A01025"
-  },
-  {
-   "symbol": "SBFC",
-   "name": "SBFC Finance Ltd.",
-   "industry": "Financial Services",
-   "isin": "INE423Y01016",
-   "instrument_key": "NSE_EQ|INE423Y01016"
   },
   {
    "symbol": "SBICARD",
@@ -2928,6 +2905,13 @@
    "industry": "Construction Materials",
    "isin": "INE070A01015",
    "instrument_key": "NSE_EQ|INE070A01015"
+  },
+  {
+   "symbol": "SHRIPISTON",
+   "name": "SPR Auto Technologies Ltd.",
+   "industry": "Automobile and Auto Components",
+   "isin": "INE526E01018",
+   "instrument_key": "NSE_EQ|INE526E01018"
   },
   {
    "symbol": "SHRIRAMFIN",
@@ -2986,20 +2970,6 @@
    "instrument_key": "NSE_EQ|INE073K01018"
   },
   {
-   "symbol": "SONATSOFTW",
-   "name": "Sonata Software Ltd.",
-   "industry": "Information Technology",
-   "isin": "INE269A01021",
-   "instrument_key": "NSE_EQ|INE269A01021"
-  },
-  {
-   "symbol": "SPLPETRO",
-   "name": "Supreme Petrochem Ltd.",
-   "industry": "Chemicals",
-   "isin": "INE663A01033",
-   "instrument_key": "NSE_EQ|INE663A01033"
-  },
-  {
    "symbol": "SRF",
    "name": "SRF Ltd.",
    "industry": "Chemicals",
@@ -3012,6 +2982,13 @@
    "industry": "Financial Services",
    "isin": "INE575P01011",
    "instrument_key": "NSE_EQ|INE575P01011"
+  },
+  {
+   "symbol": "STLTECH",
+   "name": "Sterlite Technologies Ltd.",
+   "industry": "Telecommunication",
+   "isin": "INE089C01029",
+   "instrument_key": ""
   },
   {
    "symbol": "SUMICHEM",
@@ -3168,6 +3145,13 @@
    "instrument_key": "NSE_EQ|INE467B01029"
   },
   {
+   "symbol": "TDPOWERSYS",
+   "name": "TD Power Systems Ltd.",
+   "industry": "Capital Goods",
+   "isin": "INE419M01035",
+   "instrument_key": "NSE_EQ|INE419M01035"
+  },
+  {
    "symbol": "TECHM",
    "name": "Tech Mahindra Ltd.",
    "industry": "Information Technology",
@@ -3203,11 +3187,11 @@
    "instrument_key": "NSE_EQ|INE19RI01016"
   },
   {
-   "symbol": "THELEELA",
-   "name": "Leela Palaces Hotels & Resorts Ltd.",
-   "industry": "Consumer Services",
-   "isin": "INE0AQ201015",
-   "instrument_key": "NSE_EQ|INE0AQ201015"
+   "symbol": "THANGAMAYL",
+   "name": "Thangamayil Jewellery Ltd.",
+   "industry": "Consumer Durables",
+   "isin": "INE085J01014",
+   "instrument_key": "NSE_EQ|INE085J01014"
   },
   {
    "symbol": "THERMAX",
@@ -3271,13 +3255,6 @@
    "industry": "Power",
    "isin": "INE813H01021",
    "instrument_key": "NSE_EQ|INE813H01021"
-  },
-  {
-   "symbol": "TRAVELFOOD",
-   "name": "Travel Food Services Ltd.",
-   "industry": "Consumer Services",
-   "isin": "INE103V01028",
-   "instrument_key": "NSE_EQ|INE103V01028"
   },
   {
    "symbol": "TRENT",
@@ -3385,6 +3362,13 @@
    "instrument_key": "NSE_EQ|INE094J01016"
   },
   {
+   "symbol": "VAML",
+   "name": "Vedanta Aluminium Metal Ltd.",
+   "industry": "Metals & Mining",
+   "isin": "INE1CDF01017",
+   "instrument_key": "NSE_EQ|INE1CDF01017"
+  },
+  {
    "symbol": "VBL",
    "name": "Varun Beverages Ltd.",
    "industry": "Fast Moving Consumer Goods",
@@ -3399,6 +3383,13 @@
    "instrument_key": "NSE_EQ|INE205A01025"
   },
   {
+   "symbol": "VEDPOWER",
+   "name": "Vedanta Power Ltd.",
+   "industry": "Power",
+   "isin": "INE694L01019",
+   "instrument_key": "NSE_EQ|INE694L01019"
+  },
+  {
    "symbol": "VIJAYA",
    "name": "Vijaya Diagnostic Centre Ltd.",
    "industry": "Healthcare",
@@ -3406,11 +3397,25 @@
    "instrument_key": "NSE_EQ|INE043W01024"
   },
   {
+   "symbol": "VISL",
+   "name": "Vedanta Iron and Steel Ltd.",
+   "industry": "Metals & Mining",
+   "isin": "INE1CLE01013",
+   "instrument_key": "NSE_EQ|INE1CLE01013"
+  },
+  {
    "symbol": "VMM",
    "name": "Vishal Mega Mart Ltd.",
    "industry": "Consumer Services",
    "isin": "INE01EA01019",
    "instrument_key": "NSE_EQ|INE01EA01019"
+  },
+  {
+   "symbol": "VOGL",
+   "name": "Vedanta Oil and Gas Ltd.",
+   "industry": "Oil Gas & Consumable Fuels",
+   "isin": "INE704J01044",
+   "instrument_key": "NSE_EQ|INE704J01044"
   },
   {
    "symbol": "VOLTAS",
@@ -3520,7 +3525,6 @@
  ],
  "symbols": [
   "360ONE",
-  "3MINDIA",
   "AADHARHFC",
   "AARTIIND",
   "AAVAS",
@@ -3528,8 +3532,6 @@
   "ABBOTINDIA",
   "ABCAPITAL",
   "ABDL",
-  "ABFRL",
-  "ABLBL",
   "ABREL",
   "ABSLAMC",
   "ACC",
@@ -3543,6 +3545,7 @@
   "ADANIPOWER",
   "AEGISLOG",
   "AEGISVOPAK",
+  "AETHER",
   "AFCONS",
   "AFFLE",
   "AIAENG",
@@ -3572,8 +3575,11 @@
   "ATUL",
   "AUBANK",
   "AUROPHARMA",
+  "AVANTIFEED",
   "AWL",
   "AXISBANK",
+  "AZAD",
+  "BAGMANE",
   "BAJAJ-AUTO",
   "BAJAJFINSV",
   "BAJAJHFL",
@@ -3585,22 +3591,20 @@
   "BANKBARODA",
   "BANKINDIA",
   "BATAINDIA",
-  "BAYERCROP",
-  "BBTC",
+  "BBOX",
   "BDL",
   "BEL",
   "BELRISE",
   "BEML",
   "BERGEPAINT",
+  "BHARATCOAL",
   "BHARATFORG",
   "BHARTIARTL",
   "BHARTIHEXA",
   "BHEL",
-  "BIKAJI",
   "BIOCON",
+  "BIRET",
   "BLS",
-  "BLUEDART",
-  "BLUEJET",
   "BLUESTARCO",
   "BOSCHLTD",
   "BPCL",
@@ -3624,7 +3628,6 @@
   "CESC",
   "CGCL",
   "CGPOWER",
-  "CHALET",
   "CHAMBLFERT",
   "CHENNPETRO",
   "CHOICEIN",
@@ -3633,6 +3636,8 @@
   "CIEINDIA",
   "CIPLA",
   "CLEAN",
+  "CLEANMAX",
+  "CMPDI",
   "COALINDIA",
   "COCHINSHIP",
   "COFORGE",
@@ -3648,11 +3653,11 @@
   "CROMPTON",
   "CUB",
   "CUMMINSIND",
+  "CUPID",
   "CYIENT",
   "DABUR",
   "DALBHARAT",
   "DATAPATTNS",
-  "DCMSHRIRAM",
   "DEEPAKFERT",
   "DEEPAKNTR",
   "DELHIVERY",
@@ -3671,12 +3676,12 @@
   "ELECON",
   "ELGIEQUIP",
   "EMAMILTD",
+  "EMBASSY",
   "EMCURE",
   "EMMVEE",
   "ENDURANCE",
   "ENGINERSIN",
   "ENRIN",
-  "ERIS",
   "ESCORTS",
   "ETERNAL",
   "EXIDEIND",
@@ -3688,6 +3693,7 @@
   "FLUOROCHEM",
   "FORCEMOT",
   "FORTIS",
+  "FRACTAL",
   "FSL",
   "GABRIEL",
   "GAIL",
@@ -3701,7 +3707,6 @@
   "GMDCLTD",
   "GMRAIRPORT",
   "GODFRYPHLP",
-  "GODIGIT",
   "GODREJCP",
   "GODREJIND",
   "GODREJPROP",
@@ -3749,7 +3754,6 @@
   "IGL",
   "IIFL",
   "IKS",
-  "INDGN",
   "INDHOTEL",
   "INDIACEM",
   "INDIAMART",
@@ -3758,6 +3762,7 @@
   "INDUSINDBK",
   "INDUSTOWER",
   "INFY",
+  "INOXINDIA",
   "INOXWIND",
   "INTELLECT",
   "IOB",
@@ -3783,13 +3788,11 @@
   "JPPOWER",
   "JSL",
   "JSWCEMENT",
-  "JSWDULUX",
   "JSWENERGY",
   "JSWINFRA",
   "JSWSTEEL",
   "JUBLFOOD",
   "JUBLINGREA",
-  "JUBLPHARMA",
   "JWL",
   "JYOTICNC",
   "KAJARIACER",
@@ -3800,13 +3803,14 @@
   "KEI",
   "KFINTECH",
   "KIMS",
+  "KIRLOSBROS",
   "KIRLOSENG",
   "KOTAKBANK",
   "KPIL",
   "KPITTECH",
   "KPRMILL",
+  "KSB",
   "LALPATHLAB",
-  "LATENTVIEW",
   "LAURUSLABS",
   "LEMONTREE",
   "LENSKART",
@@ -3827,7 +3831,6 @@
   "MAHABANK",
   "MANAPPURAM",
   "MANKIND",
-  "MAPMYINDIA",
   "MARICO",
   "MARUTI",
   "MAXHEALTH",
@@ -3845,6 +3848,7 @@
   "MRF",
   "MRPL",
   "MSUMI",
+  "MTARTECH",
   "MUTHOOTFIN",
   "NAM-INDIA",
   "NATCOPHARM",
@@ -3857,11 +3861,9 @@
   "NESTLEIND",
   "NETWEB",
   "NEULANDLAB",
-  "NEWGEN",
   "NH",
   "NHPC",
   "NIACL",
-  "NIVABUPA",
   "NLCINDIA",
   "NMDC",
   "NSLNISP",
@@ -3885,7 +3887,6 @@
   "PERSISTENT",
   "PETRONET",
   "PFC",
-  "PFIZER",
   "PFOCUS",
   "PGEL",
   "PHOENIXLTD",
@@ -3904,6 +3905,7 @@
   "PPLPHARMA",
   "PREMIERENE",
   "PRESTIGE",
+  "PRIVISCL",
   "PTCIL",
   "PVRINOX",
   "PWL",
@@ -3920,15 +3922,14 @@
   "RKFORGE",
   "RPOWER",
   "RRKABEL",
+  "RUBICON",
   "RVNL",
   "SAGILITY",
   "SAIL",
   "SAILIFE",
   "SAMMAANCAP",
-  "SAPPHIRE",
+  "SANSERA",
   "SARDAEN",
-  "SAREGAMA",
-  "SBFC",
   "SBICARD",
   "SBILIFE",
   "SBIN",
@@ -3936,6 +3937,7 @@
   "SCHNEIDER",
   "SCI",
   "SHREECEM",
+  "SHRIPISTON",
   "SHRIRAMFIN",
   "SHYAMMETL",
   "SIEMENS",
@@ -3944,10 +3946,9 @@
   "SOBHA",
   "SOLARINDS",
   "SONACOMS",
-  "SONATSOFTW",
-  "SPLPETRO",
   "SRF",
   "STARHEALTH",
+  "STLTECH",
   "SUMICHEM",
   "SUNDARMFIN",
   "SUNPHARMA",
@@ -3970,12 +3971,13 @@
   "TATATECH",
   "TBOTEK",
   "TCS",
+  "TDPOWERSYS",
   "TECHM",
   "TECHNOE",
   "TEGA",
   "TEJASNET",
   "TENNIND",
-  "THELEELA",
+  "THANGAMAYL",
   "THERMAX",
   "TIINDIA",
   "TIMKEN",
@@ -3985,7 +3987,6 @@
   "TMPV",
   "TORNTPHARM",
   "TORNTPOWER",
-  "TRAVELFOOD",
   "TRENT",
   "TRIDENT",
   "TRITURBINE",
@@ -4001,10 +4002,14 @@
   "URBANCO",
   "USHAMART",
   "UTIAMC",
+  "VAML",
   "VBL",
   "VEDL",
+  "VEDPOWER",
   "VIJAYA",
+  "VISL",
   "VMM",
+  "VOGL",
   "VOLTAS",
   "VTL",
   "WAAREEENER",
