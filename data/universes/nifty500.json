@@ -3,7 +3,7 @@
  "index": "Nifty 500",
  "verified": true,
  "source": "https://archives.nseindia.com/content/indices/ind_nifty500list.csv",
- "built_at": "2026-10-01T22:32:27.171052+05:30",
+ "built_at": "2026-10-06T22:19:30.186927+05:30",
  "count": 501,
  "unresolved": [
   "BAGMANE",
@@ -1026,7 +1026,7 @@
   {
    "symbol": "DUMMYHEG",
    "name": "Dummy HEG Ltd.",
-   "industry": "Metals & Mining",
+   "industry": "Capital Goods",
    "isin": "DUM545A01024",
    "instrument_key": ""
   },
