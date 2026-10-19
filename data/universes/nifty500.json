@@ -3,7 +3,7 @@
  "index": "Nifty 500",
  "verified": true,
  "source": "https://archives.nseindia.com/content/indices/ind_nifty500list.csv",
- "built_at": "2026-10-16T20:21:54.808825+05:30",
+ "built_at": "2026-10-19T22:29:21.355450+05:30",
  "count": 501,
  "unresolved": [
   "BAGMANE",
@@ -11,7 +11,6 @@
   "DUMMYHEG",
   "EMBASSY",
   "HFCL",
-  "MTARTECH",
   "STLTECH"
  ],
  "members": [
@@ -2288,7 +2287,7 @@
    "name": "MTAR Technologies Ltd.",
    "industry": "Capital Goods",
    "isin": "INE864I01014",
-   "instrument_key": ""
+   "instrument_key": "NSE_EQ|INE864I01014"
   },
   {
    "symbol": "MUTHOOTFIN",
