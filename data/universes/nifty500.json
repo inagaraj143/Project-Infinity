@@ -3,7 +3,7 @@
  "index": "Nifty 500",
  "verified": true,
  "source": "https://archives.nseindia.com/content/indices/ind_nifty500list.csv",
- "built_at": "2026-10-22T20:47:17.370886+05:30",
+ "built_at": "2026-10-23T20:34:40.338383+05:30",
  "count": 501,
  "unresolved": [
   "BAGMANE",
@@ -1555,8 +1555,8 @@
    "instrument_key": "NSE_EQ|INE765G01017"
   },
   {
-   "symbol": "ICICIPRULI",
-   "name": "ICICI Prudential Life Insurance Company Ltd.",
+   "symbol": "ICICILIFE",
+   "name": "ICICI Life Insurance Ltd.",
    "industry": "Financial Services",
    "isin": "INE726G01019",
    "instrument_key": "NSE_EQ|INE726G01019"
@@ -3743,7 +3743,7 @@
   "ICICIAMC",
   "ICICIBANK",
   "ICICIGI",
-  "ICICIPRULI",
+  "ICICILIFE",
   "IDBI",
   "IDEA",
   "IDFCFIRSTB",
